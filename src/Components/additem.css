@@ -1,0 +1,17 @@
+.form {
+     padding: 1rem;
+    
+      }
+
+input {
+    
+    display: block;
+    width: 100%;  
+      }
+
+button{
+
+    border-radius: 10px;
+      }
+
+
